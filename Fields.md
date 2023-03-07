@@ -50,7 +50,7 @@ This type of column is used to store the URL for a resource such as a webpage or
 
 ### Calculated (calculation based on other columns)
 
-This column can stores values that can be auto-caculated based on other columns using provided fomulas, which is define at ![here] (https://support.office.com/en-US/client/results?Shownav=true&lcid=1033&ns=SPOStandard&version=16&omkt=en-US&ver=16&HelpId=WSSEndUser_FormulaSyntaxError).
+This column can stores values that can be auto-caculated based on other columns using provided fomulas, which is define at  [here] (https://support.office.com/en-US/client/results?Shownav=true&lcid=1033&ns=SPOStandard&version=16&omkt=en-US&ver=16&HelpId=WSSEndUser_FormulaSyntaxError).
 
 ### Image
 
